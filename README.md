@@ -26,3 +26,7 @@ Do not have internet, hard drives, or external media plugged in when you create 
 If you are coming from stock Lenovo firmware, you will need to reset the TPM because the password is something no one knows [citation needed].
 
 Sign your boot files after creating TOTP/HOTP and connecting your Linux hard drive (preferably Fedora)
+
+
+### Gee, this looks a lot like the super useful documentation written at (osresearch)[http://osresearch.net].
+you're right.
