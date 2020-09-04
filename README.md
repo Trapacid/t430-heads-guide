@@ -28,5 +28,5 @@ If you are coming from stock Lenovo firmware, you will need to reset the TPM bec
 Sign your boot files after creating TOTP/HOTP and connecting your Linux hard drive (preferably Fedora)
 
 
-### Gee, this looks a lot like the super useful documentation written at (osresearch)[http://osresearch.net].
+### Gee, this looks a lot like the super useful documentation written at [osresearch.net](http://osresearch.net).
 you're right.
